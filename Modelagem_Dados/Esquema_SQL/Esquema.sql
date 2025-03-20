@@ -1,3 +1,6 @@
+CREATE DATABASE db_juridico;
+USE db_juridico;
+
 CREATE TABLE Cliente (
     Id_Cliente INT PRIMARY KEY AUTO_INCREMENT,
     Nome VARCHAR(50) NOT NULL,
