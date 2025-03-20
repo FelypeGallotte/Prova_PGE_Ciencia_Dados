@@ -28,8 +28,8 @@ Foi desenvolvido um modelo de banco de dados relacional que permite:
 2. Instale o MySQL em sua máquina.
 3. Execute o script SQL fornecido no repositório no caminho `"Modelagem_Dados\Esquema_SQL"` para criar o banco de dados e tabelas.
 4. (Opcional) Popular o banco com dados fictícios e executar consultas utilizando os scripts adicionais encontrados nos caminhos `Modelagem_Dados\Extra_PopularDB\Insercao_SQL` e `Modelagem_Dados\Extra_PopularDB\Insercao_Python` para execução em SQL e Python respectivamente.
-5. Instalar o Python 3.12.5 em sua máquina(Para executar scripts Python).
-6. Instalar o VScode em sua máquina (Para executar scripts Python).
+5. Instale o Python 3.12.5 em sua máquina(Para executar scripts Python).
+6. Instale o VScode em sua máquina (Para executar scripts Python).
 
 ---
 
