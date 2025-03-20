@@ -152,7 +152,7 @@ Etapas:
 #### Como Executar
 1. Instale as bibliotecas necessárias:
    ```sh
-   pip install pandas numpy matplotlib seaborn scikit-learn re
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 2. Execute o script Python fornecido para reproduzir a análise.
 3. Os gráficos gerados serão salvos automaticamente na pasta `Graficos`.
