@@ -46,7 +46,7 @@ Foi realizada uma análise exploratória do conjunto de dados Iris utilizando Py
 <br>
 
 #### Verificação e Limpeza de Dados
-Comecei fazendo definição das colunas (segundo o arquivo iris.names) inserindo os nomes das colunas do dataset. Em seguida, carreguei o dataset, verifiquei se existiam valores ausentes ou duplicados. Nessa verificação, percebi 3 dados duplicados, mas ao pesquisar a fundo sobre esse dataset, cheguei a decisão que não estavam duplicados por conta de algum erro visto que o iris dataset é uma base de dados com amostras de espécies e pode acontecer de ter amostras semelhantes. Também verifiquei os tipos de dados, traduzi o nome das colunas e retirei o termo “Iris-” antes dos nomes das espécies, pois não era necessário.
+Comecei fazendo a definição das colunas (segundo o arquivo iris.names) inserindo os nomes das colunas do dataset. Em seguida, carreguei o dataset, verifiquei se existiam valores ausentes ou duplicados. Nessa verificação, percebi 3 dados duplicados, mas ao pesquisar a fundo sobre esse dataset, cheguei a decisão que não estavam duplicados por conta de algum erro visto que o iris dataset é uma base de dados com amostras de espécies e pode acontecer de ter amostras semelhantes. Também verifiquei os tipos de dados, traduzi o nome das colunas e retirei o termo “Iris-” antes dos nomes das espécies, pois não era necessário.
 
 <br>
 
